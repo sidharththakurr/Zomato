@@ -1,6 +1,6 @@
 # Zomato
  Zomato Restaurants Expansion Analysis
- 🧩 Problem Statement
+ ## 🧩 Problem Statement
 As a consultant data analyst for Zomato, the goal is to identify strategic insights for expanding Zomato’s footprint by suggesting new countries, states, cities, and restaurant types, based on detailed data analysis and visualization.
 
 🗂️ Project Structure
@@ -8,9 +8,9 @@ Zomato Restaurants Analysis.pptx – Final presentation with visuals and recomme
 
 Sidharth zomato.docx – Full report documenting methodology, Excel formulas used, and business insights.
 
-Zomato_Expansion_Analysis.xlsx (not uploaded but referenced) – Main analysis file with raw data, transformations, and charts.
+Zomato_data.xlsx 
 
-📌 Key Analyses & Insights
+## 📌 Key Analyses & Insights
 1. Data Cleaning
 Converted inconsistent date formats using DATEVALUE and extracted DAY, MONTH, YEAR.
 
@@ -44,7 +44,7 @@ Analyzed price distribution using histograms.
 
 Average and total cost analyzed by country using AVERAGEIF, SUMIF.
 
-📈 Visualizations Used
+## 📈 Visualizations Used
 Line Charts – Country-level competition.
 
 Pivot Tables – State/city breakdown.
@@ -55,7 +55,7 @@ Pie Charts – Spending distribution.
 
 Histograms – Price range distribution.
 
-🛠️ Excel Functions Applied
+## 🛠️ Excel Functions Applied
 VLOOKUP
 
 COUNTIF, COUNTIFS
@@ -68,7 +68,7 @@ TEXT, DAY, YEAR, MONTH
 
 Power Query for live currency rates
 
-📍 Recommendations
+## 📍 Recommendations
 Launch in underserved countries with moderate ratings and demand.
 
 Focus on localized cuisines.
